@@ -92,7 +92,7 @@ To process EEG data from **NeuroSense dataset**:
   - Restart the connection and retry.
 
 ## License
-This project is licensed under the **MIT License**. 
+This project is licensed under the **GNU General Public License (GPL) + Commercial License. 
 
 ## Source Code Availability
 The source code will be published once the paper is officially published.
