@@ -110,15 +110,15 @@ To process EEG data from **NeuroSense dataset**:
   - Restart the connection and retry.
 
 ## License
-This project is licensed under the **Creative Commons Attribution (CC BY) License**. 
+This project is licensed under the **MIT License**. 
 
 ## Source Code Availability
 The source code will be published once the paper is officially published.
 
 ## Authors
 - **Khashayar Ghamati** (University of Hertfordshire)
-- **Abolfazl Zaraki**
 - **Maryam Banitalebi Dehkordi**
+- **Abolfazl Zaraki**
 
 For questions or collaborations, please contact **k.ghamati@herts.ac.uk**.
 
