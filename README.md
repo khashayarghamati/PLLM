@@ -65,7 +65,7 @@ To use OpenAI’s LLM, set up your API key:
 ### 1. Start the Chatbot
 Run the Streamlit chatbot interface:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 - This opens a web-based chatbot where you can input text, upload PDFs, CSV files, and interact with the LLM.
 
@@ -77,25 +77,7 @@ To process EEG data from **NeuroSense dataset**:
 
 ### 3. Collecting EEG Data from Muse 2 Device
 - Ensure your **Muse 2 device** is connected.
-- Run the script to collect EEG data:
-  ```bash
-  python muse_data_collector.py
-  ```
-- The collected EEG data will be sent to the **PLLM** model for analysis.
 
-## Directory Structure
-```
-|-- project_root/
-    |-- app.py              # Streamlit Chatbot Interface
-    |-- muse_data_collector.py  # Script for collecting EEG data
-    |-- utils/
-        |-- data_processing.py  # Functions for processing EEG data
-        |-- openai_interface.py # OpenAI API interactions
-    |-- data/
-        |-- example_eeg.edf  # Example EEG dataset
-    |-- requirements.txt  # Dependencies
-    |-- README.md  # This file
-```
 
 ## Troubleshooting
 - **Issue: "Command not found" when running `streamlit run app.py`**
