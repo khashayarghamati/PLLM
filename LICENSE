@@ -1,21 +1,42 @@
-MIT License
+# Dual License: GPLv3 + Commercial License
 
-Copyright (c) 2025 Khashayar
+## GNU GENERAL PUBLIC LICENSE v3.0 (GPL-3.0)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) [YEAR] [AUTHOR]
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software is licensed under the GNU General Public License v3.0.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may redistribute, modify, and use this software under the terms of the GPL v3.0 license. 
+A copy of the full license is available at: https://www.gnu.org/licenses/gpl-3.0.txt
+
+This means:
+- You can freely use this software for **academic, research, and open-source projects**.
+- If you modify and distribute it, **your modified version must also be open-source under GPL v3.0**.
+- No warranty or liability is provided.
+
+## Commercial License
+
+If you intend to use this software for **commercial purposes**, including but not limited to:
+- Selling the software or integrating it into proprietary products.
+- Using it in a SaaS (Software as a Service) application.
+- Distributing it without following GPL obligations.
+
+Then, you **must obtain a separate commercial license** from the author.
+
+For commercial licensing inquiries, please contact:
+[Your Name]
+[Your Email]
+[Your Website]
+
+By using this software, you agree to either comply with the **GPL v3 license** or obtain a **commercial license**.
+
+---
+
+## Full GNU GENERAL PUBLIC LICENSE v3.0
+
+[Include the full text of GPL v3.0 below]
+
+---
+
+```plaintext
+(GPL v3.0 full text goes here. You can copy it from https://www.gnu.org/licenses/gpl-3.0.txt)
